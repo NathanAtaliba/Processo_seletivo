@@ -1,0 +1,14 @@
+{
+  "name": "processo_seletivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "two": "node two.js",
+    "one": "node one.js",
+    "five": "node five.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
